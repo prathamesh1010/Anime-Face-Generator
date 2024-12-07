@@ -1,3 +1,5 @@
+Kaggle Dataset :- https://www.kaggle.com/datasets/splcher/animefacedataset
+
 Anime Face Generator Using DCGAN
 
 This project demonstrates the use of Deep Convolutional Generative Adversarial Networks (DCGAN) to generate realistic anime-style faces. Built with Keras and TensorFlow, this model uses a GAN architecture to learn the distribution of anime faces and generate new, unseen images.
